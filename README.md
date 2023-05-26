@@ -35,6 +35,8 @@
     <h3>🔨Languages and Tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" 
         width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" 
+        width="50" height="50"/>&nbsp;
 </div>
 
 
